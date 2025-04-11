@@ -1,0 +1,18 @@
+baseURL: "https://github.com/harroldfree/hugo"
+languageCode: en-us
+title: MyWebsite
+theme: PaperMod
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About us
+      url: /About-us/
+      weight: 2
+    - name: Who we are
+      url: /who-we-are/
+      weight: 3
+
+
